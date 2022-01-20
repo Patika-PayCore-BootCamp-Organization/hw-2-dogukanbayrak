@@ -1,7 +1,7 @@
 # hw-2-dogukanbayrak
 
 Homework
-1 – IOC and DI means ?
+1 – IOC and DI means ? /n
 2 – Spring Bean Scopes?
 3 – What does @SpringBootApplication do ?
 4 – What is Spring AOP? Where and How to use it?
